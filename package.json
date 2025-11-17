@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Tyler-Hattori.github.io/99",
+  "homepage": "https://Tyler-Hattori.github.io",
   "engines": {
     "node": "25.x"
   },
